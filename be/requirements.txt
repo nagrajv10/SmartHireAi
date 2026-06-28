@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+spacy
+sentence-transformers
+PyMuPDF
+elasticsearch
+redis
+mlflow
+sqlalchemy
+asyncpg
+psycopg2-binary
+alembic
+python-dotenv
+pytest
